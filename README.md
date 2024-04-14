@@ -1,5 +1,6 @@
 Data Engineering :
 Littéralement , c'est le traitelment des données massives mégadonnées.
+
 la définition la plus appropriée du Big Data sur le Web met l'accent sur le volume, la vélocité et la variété des données, ainsi que sur leur capacité à dépasser les capacités des outils de traitement de données traditionnels.
 
 Les 5 V du big data:
@@ -7,7 +8,8 @@ Les 5 V du big data:
 2.	Vitesse (Velocity) : les données sont collectées et traitées de manière presque instantanée.
 3.	Variété (Variety) : les données proviennent de différentes sources et ont des formes variées.
 4.	Véracité (Veracity) : l'importance de la fiabilité et de la qualité des données.
-5.	Valeur (Value) : L'objectif ultime du Big Data est de transformer ces données brutes en informations exploitables qui peuvent conduire à des améliorations stratégiques et opérationnelles.
+5.	Valeur (Value) : L'objectif ultime du Big Data est de transformer ces données brutes
+en informations exploitables qui peuvent conduire à des améliorations stratégiques et opérationnelles.
    
 Data Pipeline :
 ⦁	Moving data from point A to point B with a transformation C .
